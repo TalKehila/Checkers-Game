@@ -1,0 +1,6 @@
+@CheckersBackend_HostAddress = http://localhost:5163
+
+GET {{CheckersBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
